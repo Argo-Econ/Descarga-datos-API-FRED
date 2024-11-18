@@ -3,7 +3,7 @@
 #------------------------------------------------------------------------------#
 
 # Descarga  ----
-# Elaborado: Gerencia de Analísis Cuantitativo Inveco @sospina - @arygonza
+# Elaborado: Arturo González
 
 
 # Carga de paquetes ----
